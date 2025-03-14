@@ -1,8 +1,3 @@
-# TreinoMarkdown
-Autoexplicativo
-
-
-
 # Textão
 Óia só o h1 kk
 
