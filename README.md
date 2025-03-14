@@ -1,4 +1,4 @@
-![GitHub Logo](logo.png)
+![GitHub Logo]()
 
 # Titulozão
 Óia só o h1 kk
