@@ -2,7 +2,8 @@
 Óia só o h1 que bonito kk
 
 ![GitHub Logo](logo.png)
-![Duvido clicar aqui](https://tv.sbt.com.br/programas/auditorio/domingo-legal)
+
+[Duvido clicar aqui](https://tv.sbt.com.br/programas/auditorio/domingo-legal)
 
 # Titulozão
 Óia só o h1 kk
