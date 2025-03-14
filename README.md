@@ -40,6 +40,8 @@ Pequeno esse, fofo :3
 
 ### Tem uma imagem importada só arrastando pro editor mesmo aqui kk
 
-![images](https://github.com/user-attachments/assets/56feb36e-8199-4092-ba40-1a67c2354cda) > *"Acredite nos seus sonhos!" - Celso Portiolli, 2002*
+![images](https://github.com/user-attachments/assets/56feb36e-8199-4092-ba40-1a67c2354cda) 
+> *"Acredite nos seus sonhos!" - Celso Portiolli, 2002*
 
 
+### Fim :)
