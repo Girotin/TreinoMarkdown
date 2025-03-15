@@ -42,6 +42,7 @@ Pequeno esse, fofo :3
 
 ![images](https://github.com/user-attachments/assets/56feb36e-8199-4092-ba40-1a67c2354cda) 
 > *"Acredite nos seus sonhos!" 
+
 > Celso Portiolli, 2002*
 
 
